@@ -3,6 +3,7 @@
 - 🌱 I’m currently working as data analyst at FCGB - Girondins de Bordeaux (data : tickets, merch, sales, CRM)
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me : laurylopes@gmail.com
+- More info : www.linkedin.com/in/laury-lopes/
 
 <!---
 Lopes-Laury/Lopes-Laury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
