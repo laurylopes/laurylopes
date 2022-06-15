@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lopes-Laury
+- 👋 Hi, I’m @laury-lopes
 - 👀 I’m interested in data analysis and ML
 - 🌱 I’m currently working as data analyst at FCGB - Girondins de Bordeaux (data : tickets, merch, sales, CRM)
 - 💞️ I’m looking to collaborate on Data Analysis
