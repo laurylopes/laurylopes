@@ -1,3 +1,7 @@
+# What is data ?
+Data is information with high value. Data is formattated so that it can be stored, moved and processed efficiently.
+
+
 # Types of data:
 
 * numeric data :  can be discrete (ie.the number of oranges in a basket) or continuous (ie.the speed of a car in a race), gives quantitative information or facts
