@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurylopes
 - 👀 I’m interested in data analysis and ML
-- 🌱 I’m currently working as data analyst at FCGB - Girondins de Bordeaux (data : tickets, merch, sales, CRM)
+- 🌱 I’m currently working as data analyst at SIDE by Randstad
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me : laurylopes@gmail.com
 - More info : www.linkedin.com/in/laury-lopes/
