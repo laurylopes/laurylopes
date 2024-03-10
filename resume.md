@@ -2,7 +2,7 @@
 # Laury Lopes - Data Analyst
 +33 7 83 12 45 37 - laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes)
 
-With a background in nanophysics chemistry, I ventured into data analysis during the pandemic. Recognizing its transformative potential, I have shifted my career trajectory and ventured into data analysis during the pandemic, after I took an ambitious bootcamp.enrolled in a ambitious bootcamp. Evolving in startup environments, I leverage my scientific background and analytical skills to drive innovation. Fueled by a passion for problem-solving, I'm committed to making a meaningful impact in the ever-evolving landscape of data science through continuous learning and dedication.
+With a background in nanophysics and chemistry, I decided to shift my career trajectory and ventured into data analysis during the pandemic by taking an ambitious bootcamp. Evolving in startup environments, I leverage my scientific background and analytical skills to drive the business. Fueled by a passion for problem-solving, I'm committed to making a meaningful impact in the ever-evolving landscape of data science through continuous learning and dedication.
 
 ## Expertise
 SQL, dbt, Looker, Power BI, Python
@@ -47,14 +47,15 @@ From Sept 2018 to Aug 2019, I worked as a PhD student to study the interactions 
 ## Licences and certifications
 |Graduation year|Structure|Degree|Country| Grade
 |--|--|--|--|--|
-|2021|LePont and Universtity of Berkeley|Bootcamp in Data Analysis | France | A
+|2021|LePont and Universtity of Berkeley|Bootcamp in Data Analysis | France | B
 |2017|Faculty of Science of the Paris-Sud University|MSc.Physical Chemitry of materials| France | A
 |2015|Faculty of Science of the University of Porto|BSc. Chemistry| Portugal | A
 
 
 ## Scientific contributions
-- Internship at CEA to improve the ChemCam analysis of the Curiosity rover on Mars
-- [Pereira, C. et al., Nanoscale, 2018,10, 12820-12840](https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr03533d")
-- [O.Carvalho, A. et al. Food Chemistry, 2014, 160,127-133](https://www.sciencedirect.com/science/article/abs/pii/S0308814614004658?via%3Dihub)
+- Internship at CEA research center to improve the ChemCam analysis of the Curiosity rover on Mars (worked on the matrix effect);
+- Papers:
+  - [Pereira, C. et al., Nanoscale, 2018,10, 12820-12840](https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr03533d").
+  - [O.Carvalho, A. et al., Food Chemistry, 2014, 160,127-133](https://www.sciencedirect.com/science/article/abs/pii/S0308814614004658?via%3Dihub).
 
   
