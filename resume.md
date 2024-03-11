@@ -2,7 +2,7 @@
 # Laury Lopes - Data Analyst
 +33 7 83 12 45 37 - laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes)
 
-With a background in nanophysics and chemistry, I decided to shift my career trajectory and ventured into data analysis during the pandemic by taking an ambitious bootcamp. Evolving in startup environments, I leverage my scientific background and analytical skills to drive the business. Fueled by a passion for problem-solving, I'm committed to making a meaningful impact in the ever-evolving landscape of data science through continuous learning and dedication.
+With a background in nanophysics and chemistry, I decided to shift my career trajectory and ventured into data analysis during the pandemic by taking an ambitious bootcamp. Evolving in startup environments, I leverage my scientific background and analytical skills to drive the business. Fueled by a passion for problem-solving, I'm committed to making a meaningful impact in the ever-evolving landscape of data science and analysis through continuous learning and dedication.
 
 ## Expertise
 SQL, dbt, git, Looker, Power BI, Python
