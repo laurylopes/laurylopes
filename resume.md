@@ -10,7 +10,7 @@ SQL, dbt, Looker, Power BI, Python
 ## Experiences
 ### Data Analyst @ SIDE by RANDSTAD (Temp work app)
 Since July 2023, as Data Analyst in the BI team, I had the chance to perform deep analysis and insights: 
-* **Conversion funnel analysis:** several friction points have been highlighted and product teams are testing different ways to streamline the process to gain up to 45% productivity and maximize profits;
+* **Conversion funnel analysis:** identified several friction points on the application onboarding funnel. This work helped product and operational teams rearrange the onboarding process in order to reduce the cost up to 25%;
 
 * **Risk analysis:** built a key account risk analysis dashboard to help management and sales teams identify risks and grow the business (analysis of monthly revenue over several years, relative risk ratio based on potential and actual revenue, market share, churn rate, portfolio, etc.);
 
@@ -27,7 +27,7 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club. I 
 
 * **Power BI implementation:** created models in Power BI and built scripts for data preparation to track sales activity daily and weekly. This work allowed the sales manager to save one and a half day per week of working time;
 
-* **Financial analysis:** helped the finance team develop revenue forecasts and analyzes to present the company to investors;
+* **Financial analysis:** assisted the finance team in creating revenue forecasts and analyses to showcase the company to investors;
 
 * **Sentiment analysis:** analyzed the comments using Google sentiment analysis and helped come up with different strategies to attract more people to the stadium.
 
