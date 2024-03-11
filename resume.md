@@ -18,7 +18,7 @@ Since July 2023, as Data Analyst in the BI team, I had the chance to perform dee
 
 * **Looker trainee courses:** created a 3-level Looker class course to help teams navigate dashboards and looks, but also to help them improve their skills and be more independent.
 
-**Techs:** Looker (lookML), PostgreSQL, Metabase, Airflow, dbt, git.
+**Techs:** Looker (lookML), PostgreSQL, Metabase, Airflow, dbt, git
 
 ### Data Analyst @ FC Girondins de Bordeaux (Football club, ligue 1)
 From Jan 2022 to June 2023, I operated as the first data analyst at the club. I worked closely with Sales, Ticketing, Marketing and Financial teams: 
@@ -31,7 +31,7 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club. I 
 
 * **Sentiment analysis:** analyzed the comments using Google sentiment analysis and helped come up with different strategies to attract more people to the stadium.
 
-**Techs:** Power BI, Jupyter Notebook, Python. 
+**Techs:** Power BI, Jupyter Notebook, Python
 
 ### Scientific Writer @ GAC Group (Innovation consulting)
 From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and scientifical projects. I worked for big companies, such as: Safran, Segula, OTIS, Engie, etc. 
