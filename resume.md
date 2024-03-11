@@ -5,7 +5,7 @@
 With a background in nanophysics and chemistry, I decided to shift my career trajectory and ventured into data analysis during the pandemic by taking an ambitious bootcamp. Evolving in startup environments, I leverage my scientific background and analytical skills to drive the business. Fueled by a passion for problem-solving, I'm committed to making a meaningful impact in the ever-evolving landscape of data science through continuous learning and dedication.
 
 ## Expertise
-SQL, dbt, Looker, Power BI, Python
+SQL, dbt, git, Looker, Power BI, Python
 
 ## Experiences
 ### Data Analyst @ SIDE by RANDSTAD (Temp work app)
