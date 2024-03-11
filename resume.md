@@ -35,8 +35,6 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club. I 
 ### Scientific Writer @ GAC Group (Innovation consulting)
 From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and scientifical projects. I worked for big companies, such as: Safran, Segula, OTIS, Engie, etc. 
 
-**Techs:** Microsoft suite.
-
 ### PhD student in Nanophysics @ CNRS (National scientific research center)
 From Sept 2018 to Aug 2019, I worked as a PhD student to study the interactions of graphene and Indium molecules for molecular electronics with a RT-STM microscope.
 
