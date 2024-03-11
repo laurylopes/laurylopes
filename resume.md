@@ -34,7 +34,7 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club. I 
 **Techs:** Power BI, Jupyter Notebook, Python. 
 
 ### Scientific Writer @ GAC Group (Innovation consulting)
-From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and scientifical projects. I worked for big companies, such as: safran, segula, OTIS, engie, etc. 
+From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and scientifical projects. I worked for big companies, such as: Safran, Segula, OTIS, Engie, etc. 
 
 **Techs:** Microsoft suite.
 
