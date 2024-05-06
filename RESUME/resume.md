@@ -13,14 +13,14 @@ SQL, Python, data visualisation and storytelling, communication, statistics
 - 2015, *University of Porto*, **BSc. Chemistry**, Portugal, grade A
 
 ## Experiences
-### Data Analyst | Side by Randstad
+### Data Analyst | Side by Randstad (temp work app)
 Since July 2023, I have been supporting the Performance & Analytics (P&A) team with  ad-hoc analyses. Analysing, modeling and cleaning data to improve find patterns and actionable insights to help the teams to reach goals effectively:
 
 - Worked on the application onboarding funnel and  helped the company to reduce the cost up to 35%. 
 
 -  Analysed the cohort funnel B2B business to help the company reduce up to 20% the churn.
 
--  Developed dashboards for call tenders that won 2 major tenders, which represented over 15% of the total turnover.
+-  Developed dashboards that helped won 2 major tenders, which represented over 15% of the total turnover.
 
 -  Worked on the migration of the SQL transformations codebase into dbt and Looker, and provided clean data sets for stakeholders.
 
@@ -29,31 +29,31 @@ Since July 2023, I have been supporting the Performance & Analytics (P&A) team w
 **Techs:** Looker, LookML,  PostgreSQL, Metabase, Airflow, dbt, git, Python, Zapier
 
 
-### Data Analyst | FCGB 
+### Data Analyst | FCGB (football club)
 From Jan 2022 to June 2023, I operated as the first data analyst at the club. I worked closely with Sales, Ticketing, Marketing and Financial teams:
 
--  Built a communication strategy plan based on the statistical analysis of email marketing campaigns for each segment and helped the company deliver the content more effectively up to 30%. 
+-  Built a communication strategy plan based on the statistical analysis of email marketing campaigns and helped the company deliver the content more effectively up to 30%. 
 
--  Created python data wrangling and cleaning scripts and created models in power BI to track B2B  and B2C sales activity. This work allowed the head of sales to save 1,5 day per week of working time.
+-  Created python data transformation and cleaning scripts and created models in power BI to track B2B  and B2C sales activity. This work allowed the head of sales to save 1,5 day of work per week.
 
 -  Assisted the financial team by creating forecasted revenue dashboards and analyses to showcase the financial health of the company to investors.
 
 
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
-### Scientific Writer | GAC GROUP
+### Scientific Writer | GAC GROUP (innovation consulting)
 From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and science projects. I analysed projects and created high quality technical documents for big companies, such as: Safran, Segula, OTIS, Engie:
 -  Build up to 2 to 3 reports of 20 pages per week in french or english. 
 
 
-### PhD student in Nanophysics | CNRS 
+### PhD student in Nanophysics | CNRS (National scientific research center)
 From Sept 2017 to Aug 2018, I worked as a PhD student to study the materials for spintronics. This experience has enabled me to develop a strong sense of effective communication, problem-solving, and curiosity, which are necessary for navigating businesses as a data analyst.
 
-**Techs:** Excel, Data visualisation, Statistics, Research
+**Techs:** Excel, data visualisation, statistics, research
 
 
 ## More info
-Checkout my [linkedIn](https://www.linkedin.com/in/laury-lopes/) for project examples and detailed information about my project experiences. 
+Take a look my [linkedIn](https://www.linkedin.com/in/laury-lopes/) for example projects and detailed information about my project experiences. 
 
 
 
