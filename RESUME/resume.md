@@ -1,4 +1,4 @@
-# Laury Lopes - Associate Data Analyst (B2B) 
+# Laury Lopes - Data Analyst 
 laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes)
 
 
