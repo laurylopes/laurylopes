@@ -38,15 +38,13 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club. I 
 
 -  Assisted the financial team by creating forecasted revenue dashboards and analyses to showcase the financial health of the company to investors.
 
-
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
 ### Scientific Writer | GAC GROUP (innovation consulting)
-From Oct 2018 to Sept 2019, I worked as a scientific writer to build tax deduction official documents for innovating and science projects. I analysed projects and created high quality technical documents for big companies, such as: Safran, Segula, OTIS, Engie:
--  Build up to 2 to 3 reports of 20 pages per week in french or english. 
+From Oct 2018 to Sept 2019, I worked as a scientific writer and built around 60 pages per week of official documents for tax deduction (for big companies such as Safran, Segula, OTIS, Engie). 
 
 
-### PhD student in Nanophysics | CNRS (National scientific research center)
+### PhD student in Nanophysics | CNRS (national scientific research center)
 From Sept 2017 to Aug 2018, I worked as a PhD student to study the materials for spintronics. This experience has enabled me to develop a strong sense of effective communication, problem-solving, and curiosity, which are necessary for navigating businesses as a data analyst.
 
 **Techs:** Excel, data visualisation, statistics, research
