@@ -19,7 +19,7 @@ Since July 2023. I've been working on cross-projetcs with product, sales, market
 **Projetcs:**
 - Onboarding funnel: *helped the company to reduce the cost up to 35%* 
 
-- Data vis: *developed content that helped won 2 major tenders* 
+- Data vis: *developed content that won 2 major tenders* 
 
 - Communication: *created a 3-level Looker class course and helped over 32 co-workers improve their skills and autonomy*
 
