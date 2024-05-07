@@ -30,14 +30,13 @@ I've been exploring, transforming, modeling, dashboarding and analyzing data to 
 
 
 ### Data Analyst @ Football Club des Girondins de Bordeaux
-From Jan 2022 to June 2023, I operated as the first data analyst at the club and had the chance to implement models and content to help sales, ticketing, marketing and financial teams.
+From Jan 2022 to June 2023, I operated as the first data analyst at the club and had the chance to implement models and dashboards to help sales, ticketing, marketing and financial teams.
 
-**Projetcs:**
-- Statistical analysis: *built a communication strategy plan for email marketing campaigns*
+- Delivered a communication strategy plan for email marketing campaigns -> augmented the open rate 
 
--  Python: *created data cleaning and data transformation scripts that helped the head of sales to save 1,5 day of work per week*
+-  Created data cleaning and data transformation scripts in python -> helped the head of sales save 1,5 day of work per week
 
--  Data vis and analysis: *assisted the financial team by creating forecasted revenue content*
+-  Delivered a dashbord to follow the entry flow of supporters in the stadium according to the type of match -> improved order and security
 
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
