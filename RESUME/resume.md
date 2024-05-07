@@ -29,7 +29,7 @@ I've been exploring, transforming, modeling, dashboarding and analyzing data to 
 **Techs:** Looker, LookML, PostgreSQL, Metabase, Airflow, dbt, git, Python, Zapier
 
 
-### Data Analyst @ FCGB (football club)
+### Data Analyst @ Football Club des Girondins de Bordeaux
 From Jan 2022 to June 2023, I operated as the first data analyst at the club and had the chance to implement models and content to help sales, ticketing, marketing and financial teams.
 
 **Projetcs:**
