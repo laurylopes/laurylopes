@@ -5,28 +5,28 @@ laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in
 I am a Data Analyst/Scientist with experience in scientific research, who decided to churn into data analysis during the pandemic. I use my scientific background and analytical skills to find actionable insights and to solve problems. I am very curious and I love to learn.
 
 ## Expertise
-SQL, Python, data visualisation and storytelling, communication, statistics
+SQL, research, data visualisation and storytelling
 
 ## Education 
 - 2021, *LePont and Berkeley Fisher Center*, **450h Bootcamp in Data Analysis**
-- 2017, *University of Paris Saclay*, **MSc. Physical Chemistry**, France, grade A with an international excellence scholarship 
-- 2015, *University of Porto*, **BSc. Chemistry**, Portugal, grade A
+- 2017, *Paris-Saclay University*, **MSc. Physical Chemistry** (grade A, international excellence scholarship)
+- 2015, *University of Porto*, **BSc. Chemistry** (grade A)
 
 ## Experiences
-### Data Analyst @ Side by Randstad (temp work app)
-Since July 2023. I've been working on cross-projetcs with product, sales, marketing, financial and operational teams.
+### Data Analyst @ SIDE (temp work app)
+Since July 2023: I worked for Side, an application owned by Randstad that connects temporary workers to companies.
+I've been exploring, transforming, modeling, dashboarding and analyzing data to power the product, sales, marketing, financial and operations teams with analytics. I was also responsible for the development of custom dashboards allowing companies to monitor their temp work activity.
 
-**Projetcs:**
-- Onboarding funnel: *helped the company to reduce the cost up to 35%* 
+- Delivered an in-app onboarding funnel -> reduced by 35% the cost of temp workers' documents verification
 
-- Data vis: *developed content that won 2 major tenders* 
+- Delivered an anonymized temp work activity dashboard -> acquired 2 new major clients
 
-- Communication: *created a 3-level Looker class course and helped over 32 co-workers improve their skills and autonomy*
+- Performed Looker training sessions adapted to different technical levels -> helped over 30 co-workers improve their skills and autonomy
 
-- SQL: *worked on the migration of the SQL transformations codebase into dbt*
+- Created and migrated SQL transformations into dbt -> improved maintainability, testability and costs
  
 
-**Techs:** Looker, LookML,  PostgreSQL, Metabase, Airflow, dbt, git, Python, Zapier
+**Techs:** Looker, LookML, PostgreSQL, Metabase, Airflow, dbt, git, Python, Zapier
 
 
 ### Data Analyst @ FCGB (football club)
@@ -35,7 +35,7 @@ From Jan 2022 to June 2023, I operated as the first data analyst at the club and
 **Projetcs:**
 - Statistical analysis: *built a communication strategy plan for email marketing campaigns*
 
--  Python: *created data cleaning and transformation scripts that helped the head of sales to save 1,5 day of work per week*
+-  Python: *created data cleaning and data transformation scripts that helped the head of sales to save 1,5 day of work per week*
 
 -  Data vis and analysis: *assisted the financial team by creating forecasted revenue content*
 
