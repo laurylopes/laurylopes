@@ -30,7 +30,7 @@ Since July 2023. I've been working on cross-projetcs with product, sales, market
 
 
 ### Data Analyst @ FCGB (football club)
-From Jan 2022 to June 2023, I operated as the first data analyst at the club. I worked closely with sales, ticketing, marketing and financial teams.
+From Jan 2022 to June 2023, I operated as the first data analyst at the club and had the chance to implement models and content to help sales, ticketing, marketing and financial teams.
 
 **Projetcs:**
 - Statistical analysis: *built a communication strategy plan for email marketing campaigns*
