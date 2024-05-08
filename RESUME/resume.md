@@ -43,7 +43,9 @@ From Sept 2017 to Aug 2018, I worked as a PhD student to study spintronics mater
 - 2017, *Paris-Saclay University*, **MSc. Physical Chemistry** (grade A, international excellence scholarship)
 - 2015, *University of Porto*, **BSc. Chemistry** (grade A)
 
+## Languages
 
+Portuguese(fluent) - French(fluent) - English(fluent)
 
 
 
