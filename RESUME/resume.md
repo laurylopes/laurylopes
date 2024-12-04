@@ -1,16 +1,17 @@
-# Laury Lopes - Analytics Engineer & Data Analyst
-laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes)
+# Laury Lopes
+laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes) - [laurylopes.carrd.co](https://laurylopes.carrd.co) - [07 445 34 68 59](tel:07445346859)
 
-I am a Data Analyst with experience in Analytics Engineering. I have a background in scientific research, and I decided to transition into data during the pandemic. I use my scientific and analytical skills to solve problems and work efficiently. I have a spouse working visa, and I am allowed to work in the UK. I am available to start working in September. 
+As a data analyst with skills in SQL, dbt, Python, and data visualization, I enjoy exploring data to answer important business questions. With a background in scientific research, I switched to data during the pandemic and found a passion for providing detailed analyses that lead to actionable insights. I’m always excited to tackle new challenges and help businesses grow through data.
 
 ## Expertise
-SQL, data visualisation and storytelling, problem solving
+SQL, data visualisation and storytelling, dbt
 
 ## Experience
-### Analytics Engineer & Data Analyst @ Side by Randstad (temp work app)
-From July 2023 to July 2024, I operated as a Data Analyst with a focus on Analytics Engineering using dbt. I had the opportunity to create models (based on Kimball modelling), explore, transform, load, and analyse data to power product, sales, marketing, financial, and operation teams. Also, I was responsible for the development of custom dashboards allowing companies to monitor their temp work activity through Looker. 
-
-- Delivered an in-app onboarding funnel: reduced by 35% the cost of verification of temp workers' documents.
+### Data Analyst @ Side by Randstad (temp work app)
+**From July 2023 to July 2024:** I joined the business intelligence team during a period of growth and scaling.<br> 
+I had the opportunity to explore, transform, load, and analyse data to support the product, sales, marketing, finance, and operations teams. Additionally, I was responsible for managing client-embedded analytics dashboards.
+				
+- Onboarding funnel: reduced by 35% the cost of verification of temp workers' documents. (tools: SQL, dbt, VScode, Looker)
 
 - Delivered an anonymized temp work activity dashboard: acquired 2 new major clients.
 
@@ -21,7 +22,7 @@ From July 2023 to July 2024, I operated as a Data Analyst with a focus on Analyt
 **Techs:** Looker, LookML, PostgreSQL, dbt, git, Airflow, Python, Zapier
 
 ### Data Analyst @ Girondins de Bordeaux (football club)
-From Jan 2022 to June 2023, I worked as the first Data Analyst at the club and had the chance to build Kimball data models and dashboards to help sales, ticketing, marketing, and financial teams.
+**From Jan 2022 to June 2023:** I worked as the first data analyst at the club and had the chance to automate and build data models and dashboards to help sales, ticketing, marketing, and financial teams. 
 
 - Delivered a communication strategy plan for email marketing campaigns: increased the email open rate.
 
@@ -32,16 +33,21 @@ From Jan 2022 to June 2023, I worked as the first Data Analyst at the club and h
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
 ### Scientific Writer @ GAC group (innovation consulting)
-From Oct 2018 to Sept 2019, I worked as a scientific writer and built around 60 pages per week of official documents for tax deduction for big companies such as Safran, Segula, OTIS, and Engie. 
+**From Oct 2018 to Sept 2019:** I worked as a scientific writer, producing around 60 pages per week of official documents for tax deductions for major companies like Safran, Segula, OTIS, and Engie. This experience enhanced my ability to prioritize tasks and organize work efficiently.
 
 ### PhD student in Nanophysics @ CNRS (national scientific research center)
-From Sept 2017 to Aug 2018, I worked as a PhD student to study spintronics materials. This experience helped me develop my analytical and communication skills, which are necessary when working in data.
+**From Sept 2017 to Aug 2018:** As a PhD student, I researched spintronics materials for next-generation electronics. This experience strengthened my analytical and communication skills, both essential for a career in data.
 
 
 ## Education 
 - 2021, *LePont and Berkeley Fisher Center*, **450h Bootcamp in Data Analysis**.
-- 2017, *Paris-Saclay University*, **MSc. Physical Chemistry** (grade A, international excellence scholarship).
-- 2015, *University of Porto*, **BSc. Chemistry** (grade A).
+- 2017, *Paris-Saclay University*, **MSc. Physical Chemistry** (grade A, *international award excellence scholarship*).
+- 2014, *University of Porto*, **BSc. Chemistry** (grade A).
 
 ## Languages
-Portuguese (fluent) - French (fluent) - English (fluent).
+Portuguese (native) - French (native) - English (fluent).
+
+
+
+
+
