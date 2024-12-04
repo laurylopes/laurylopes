@@ -16,29 +16,34 @@ pd.set_option('max_columns', None)
 ### String manipulation 
 ``` python
 # contains 
-df['ColumnName'].str.contains('containString')
+df['col'].str.contains('containString')
 
 # replace
-df['ColumnName'].str.replace('old', 'new')
+df['col'].str.replace('old', 'new')
 
 # start with
-df['ColumnName'].str.startswith('A')
+df['col'].str.startswith('A')
 ```
 
 ### Anti-join
 ``` python
-merge = pd.merge(df_1, df_2, on ='key', how='inner')
-array = merge['column'].unique() # keep values of interest to filter
-df[~df['ColumName'].isin(array)]
+# inner join
+merge = pd.merge(df1, df2, on ='key', how='inner')
+
+# keep values of interest to filter => equivalent to SELECT DISTINCT in SQL
+array = merge['pKey_column'].unique() 
+
+# select all the values in df that are different from the values in array
+df[~df['pKey_column'].isin(array)]
 ```
 
 ### Columns manipulation
 ``` python
 # drop columns
-df.drop(['ColumnName1', 'ColumnName2'])
+df.drop(['col1', 'col2'])
 
 # rename columns
-df.rename(columns={'OldName' : 'NewName'})
+df.rename(columns={'Old_Name' : 'New_Name'})
 
 # keep only selected columns
 df = df[['col1', 'col2']]
@@ -50,7 +55,7 @@ df = df[['col1', 'col2']]
 pd.concat([df1, df2, df3], ignore_index=True)
 
 # concat excel sheets in file
-df = pd.concat(pd.read_excel('excelNameFile.xlsx', sheet_name=None), ignore_index=True)
+df = pd.concat(pd.read_excel('file.xlsx', sheet_name=None), ignore_index=True)
 
 # concat all files in a folder
 import os
@@ -72,38 +77,38 @@ df = pd.concat(df_files, ignore_index =False)
 ### Date Time Format
 ``` python
 # transform data into dateTime value type
-pd.to_datetime(df['DateColumnName'])
+pd.to_datetime(df['col'])
 
 # extract year, month and day and create new column with data
-df['year'] = df['DateColumnName'].dt.year
-df['month'] = df['DateColumnName'].dt.month
-df['day'] = df['DateColumnName'].dt.day
+df['year'] = df['col'].dt.year
+df['month'] = df['col'].dt.month
+df['day'] = df['col'].dt.day
 
 # debug erros
-pd.to_datetime(df['column'], errors='coerce')
+pd.to_datetime(df['col'], errors='coerce')
 ```
 
 ### Duplicates
 ``` python
 # drop duplicates
-df.drop_duplicates(subset = 'ColumnName')
+df.drop_duplicates(subset = 'column')
 ```
 
 ### Group By
 ``` python
 # group by with more than one aggregate
 
-# 1. create disctionnary with 'columnName' : 'function'
-dico_agg = {'columnName1': ['agg1'], 'ColumeName2': ['agg2'], 'ColumName3' : ['agg3']}
+# 1. create disctionnary with 'column' : 'function'
+dico_agg = {'col1': ['agg1'], 'col2': ['agg2'], 'col3' : ['agg3']}
 
 # 2. run group by and aggregate
-df.groupby('ColumnName').agg(dico_agg)
+df.groupby('col').agg(dico_agg)
 ```
 
 ### Order By
 ``` python
 # sort values by column
-sort_values(by=['Col'], ascending=False)
+sort_values(by=['col'], ascending=False)
 ```
 
 ### Selection
