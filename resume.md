@@ -7,6 +7,10 @@ As an analytics engineer with skills in SQL, dbt, Python, and data visualization
 SQL, dbt, data modeling
 
 ## Experience
+
+### Analytics Engineer @ Pinnu Analytics
+**From Jan 2025 to present:** As an analytics engineer at [pinnu.ai](Pinnu.ai), I specialise in transforming and modelling data using SQL, dbt, and low-code tools like Fivetran or Airbyte. My role involves developing, testing and deploying analytical data models to ensure data flows accurately from sources to end-users.
+
 ### Data Analyst/Analytics Engineer @ Side by Randstad (temp work app)
 **From July 2023 to July 2024:** I joined the business intelligence team during a period of growth and scaling.<br> 
 I had the opportunity to explore, transform, load, and analyse data to support the product, sales, marketing, finance, and operations teams. Additionally, I was responsible for managing client-embedded analytics dashboards.
