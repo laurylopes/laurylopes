@@ -15,4 +15,4 @@ I thrive on breaking down complex data problems into small, solvable parts. 🤠
 
 I believe in creating a fun and collaborative atmosphere at work. Outside of work, I enjoy relaxing with video games, music, and movies. 🍿
 
-Here you'll find repos with documentation best pratices on data. 👇 🗄️
+Here you'll find repos with best data pratices and tips. 👇 🗄️
