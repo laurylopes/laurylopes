@@ -13,7 +13,7 @@ SQL, dbt, git, ETL, data modelling, testing and documentation
 **Techs:** SnowSQL, dbt (core&cloud), git,  Lightdash
 
 ### Data Analyst/Analytics Engineer @ Side by Randstad (temp work app)
-**From July 2023 to July 2024:** I joined the business intelligence team during a period of growth and scaling.<br> 
+**From July 2023 to July 2024:** I joined the business intelligence team during scale-up.
 I had the opportunity to explore, transform, load, and analyse data to support the product, sales, marketing, finance, and operations teams. Additionally, I was responsible for managing client-embedded analytics dashboards.
 
 - Onboarding funnel: reduced by 35% the cost of verification of temp workers' documents. (tools: SQL, dbt, VScode, Looker)
