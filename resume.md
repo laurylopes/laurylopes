@@ -1,7 +1,7 @@
 # Laury Lopes
 laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes) - [laurylopes.carrd.co](https://laurylopes.carrd.co)
 
-As an analytics engineer with skills in SQL, dbt, Python, and data modelling I am motivated by helping data users in organisations to work faster and autonomously in their analytical roles. With a background in scientific research, I switched to data during the pandemic and found a passion for modeling and coding. I’m always excited to tackle new challenges and help businesses grow through data. I thrive on breaking down complex data problems into small, solvable parts. 
+As an analytics engineer with skills in SQL, dbt, Python, and data modelling I am motivated by helping data users in organisations to work faster and autonomously in their analytical roles. With a background in scientific research, I switched to data during the pandemic and found a passion for modeling and coding. I thrive on breaking down complex data problems into small, solvable parts. 
 
 ## Expertise
 SQL, dbt, git, ETL, data modeling and quality
