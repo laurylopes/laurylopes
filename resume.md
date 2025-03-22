@@ -18,7 +18,7 @@ I had the opportunity to explore, transform, load, and analyse data to support t
 
 - Onboarding funnel: reduced by 35% the cost of verification of temp workers' documents. (tools: SQL, dbt, VScode, Looker)
 
-- Delivered an anonymized temp work activity dashboard: acquired 2 new major clients.
+- Delivered an anonymised temp work activity dashboard: acquired 2 new major clients.
 
 - Performed Looker training sessions adapted to different technical levels: helped over 30 co-workers improve their skills and autonomy.
 
