@@ -1,6 +1,6 @@
 Hi, I’m Laury, an analytics engineer with experience in SQL, Python, dbt, and data analysis. 👋
 
-I wanted to be a scientist or a detective, but data was more practical and faster. 😆
+I wanted to be a scientist or a detective, but data was more practical and faster. ☺️
 
 Before I learned SQL and data best practices, I obtained an MSc in Physical Chemistry, worked in excellent labs in Porto and Paris as a student, and was a scientific writer for an innovation consulting firm.
 
