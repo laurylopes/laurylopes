@@ -23,7 +23,7 @@ SQL, dbt, git, ETL, data modeling, testing and documentation
  
 **Techs:** Looker, LookML, PostgreSQL, dbt, git, Airflow, Python, Zapier
 
-### Fullstack Data Analyst @ Girondins de Bordeaux (football club)
+### Full Stack Data Analyst @ Girondins de Bordeaux (football club)
 **From Jan 2022 to June 2023:** I worked as the first data analyst at the club and had the chance to automate and build data models and dashboards to help sales, ticketing, marketing, and financial teams. 
 
 - Implemented Power BI to empower data users: ETL, modeling and dashboarding.
