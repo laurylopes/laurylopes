@@ -1,5 +1,5 @@
 # Laury Lopes
-laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes) - [laurylopes.carrd.co](https://laurylopes.carrd.co) - [Call me](tel:+07445346859)
+laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes/) - [github.com/laurylopes](https://github.com/laurylopes) - [laurylopes.carrd.co](https://laurylopes.carrd.co) - [07445346859](tel:07445346859)
 
 As an analytics engineer with skills in SQL, dbt, Python, and data modeling, I am motivated by helping data consumers work faster and more autonomously in their analytical roles. With a background in scientific research, I switched to data during the pandemic and discovered a passion for modeling, coding, and sharing best data practices. I thrive on breaking down complex data problems into small, solvable parts
 
