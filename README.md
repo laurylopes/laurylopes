@@ -13,6 +13,5 @@ I enjoy coding in SQL and applying best data practices to collaborate with other
 
 I thrive on breaking down complex data problems into small, solvable parts. 🤠
 
-I believe in creating a fun and collaborative atmosphere at work. Outside of work, I enjoy relaxing with video games, music, and movies. 🍿
+I believe in creating a fun and collaborative atmosphere at work. Outside of work, I enjoy attending concerts and exploring new restaurants.
 
-Here you'll find repos with best data pratices and tips. 👇 🗄️
