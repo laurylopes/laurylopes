@@ -4,12 +4,12 @@ laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in
 As an analytics engineer with skills in SQL, dbt, Python, and data modelling, I enjoy empowering end-users through the creation of reliable analytical data models. <p> With a background in scientific research, I switched to data during the pandemic and found a passion for modeling and coding. I’m always excited to tackle new challenges and help businesses grow through data. I am motivated by helping people in organisations to work faster and autonomously in their analytical roles.
 
 ## Expertise
-SQL (Snowflake), dbt, git, Fivetran, data modeling and quality
+SQL, dbt, git, ETL, data modeling and quality
 
 ## Experience
 
 ### Analytics Engineer @ Pinnu Analytics
-**From Jan 2025 to present:** As an analytics engineer at Pinnu, I specialise in transforming and modelling data using SQL, dbt, and low-code tools like Fivetran and Airbyte. My role involves developing, testing and deploying analytical data models to ensure data flows accurately from sources to end-users.
+**From Jan 2025 to present:** As an analytics engineer at Pinnu, I specialise in transforming and modelling data using SQL, dbt, and low-code tools like Fivetran and Airbyte. My role involves developing, testing and deploying analytical data models to ensure data flows accurately from sources to end-users. <p>
 **Techs:** SnowSQL, dbt (core&cloud), git,  Lighdash
 
 ### Data Analyst/Analytics Engineer @ Side by Randstad (temp work app)
