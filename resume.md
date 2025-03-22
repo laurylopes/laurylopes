@@ -9,7 +9,7 @@ SQL, dbt, git, ETL, data modelling, testing and documentation
 ## Experience
 
 ### Analytics Engineer @ Pinnu Analytics
-**From Jan 2025 to present:** As an analytics engineer at Pinnu, I specialise in transforming and modelling data using SQL, dbt, and low-code tools like Fivetran and Airbyte. My role involves developing, testing and deploying analytical data models to ensure data flows accurately from sources to end-users. <p>
+**From Jan 2025 to present:** As an analytics engineer III, I specialise in transforming and modelling data using SQL, dbt, and low-code tools like Fivetran and Airbyte. My role involves developing, testing and deploying analytical data models to ensure data flows accurately from sources to end-users. <p>
 **Techs:** SnowSQL, dbt (core&cloud), git,  Lighdash
 
 ### Data Analyst/Analytics Engineer @ Side by Randstad (temp work app)
