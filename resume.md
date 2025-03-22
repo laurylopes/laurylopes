@@ -12,7 +12,7 @@ SQL, dbt, git, ETL, data modeling, testing and documentation
 **From Jan 2025 to present:** As an analytics engineer III, I specialise in transforming and modeling data using SQL, dbt, and extraction and load low-code tools like Fivetran and Airbyte. My role involves developing, testing, deploying and document analytical modular data models to ensure data flows accurately from the source to the end-users. <p>
 **Techs:** SnowSQL, dbt (core & cloud), git, Fivetran, Airbyte, Lightdash
 
-### Data Analyst/Analytics Engineer @ Side by Randstad (temp work app)
+### Analytics Engineer @ Side by Randstad (temp work app)
 **From July 2023 to July 2024:** I joined the business intelligence team during scale-up, as an analytics engineer.
 I had the opportunity to explore, transform, load, and analyse data to support the product, sales, marketing, finance, and operations teams. Additionally, I was responsible for managing client-embedded analytics dashboards.
 
@@ -26,7 +26,7 @@ I had the opportunity to explore, transform, load, and analyse data to support t
  
 **Techs:** Looker, LookML, PostgreSQL, dbt, git, Airflow, Python, Zapier
 
-### Data Analyst @ Girondins de Bordeaux (football club)
+### Fullstack Data Analyst @ Girondins de Bordeaux (football club)
 **From Jan 2022 to June 2023:** I worked as the first data analyst at the club and had the chance to automate and build data models and dashboards to help sales, ticketing, marketing, and financial teams. 
 
 - Delivered a communication strategy plan for email marketing campaigns: increased the email open rate.
