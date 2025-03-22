@@ -27,11 +27,11 @@ I had the opportunity to explore, transform, load, and analyse hundreads of data
 ### Fullstack Data Analyst @ Girondins de Bordeaux (football club)
 **From Jan 2022 to June 2023:** I worked as the first data analyst at the club and had the chance to automate and build data models and dashboards to help sales, ticketing, marketing, and financial teams. 
 
+- Implemented Power BI to empower data users: ETL, modeling and dashboarding.
+  
 - Delivered a communication strategy plan for email marketing campaigns: increased the email open rate.
 
--  Created data cleaning and data transformation scripts in Python: helped the head of sales save 1.5 days of work per week.
-
--  Delivered a dashboard to follow the entry flow of supporters in the stadium according to the type of match: improved order and security.
+- Created data cleaning and data transformation scripts in Python: helped the head of sales save 1.5 days of work per week.
 
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
@@ -39,8 +39,7 @@ I had the opportunity to explore, transform, load, and analyse hundreads of data
 **From Oct 2018 to Sept 2019:** I worked as a scientific writer, producing around 60 pages per week of official documents for tax deductions for major companies like Safran, Segula, OTIS, and Engie. This experience enhanced my ability to prioritize tasks and organize work efficiently.
 
 ### PhD student in Nanophysics @ CNRS (national scientific research center)
-**From Sept 2017 to Aug 2018:** As a PhD student, I researched spintronics materials for next-generation electronics. This experience strengthened my analytical and communication skills, both essential for a career in data.
-
+**From Sept 2017 to Aug 2018:** As a PhD student, I researched spintronics materials for next-generation electronics. This experience strengthened my analytical and problem solving skills, both essential for a career in data.
 
 ## Education 
 - 2021, *LePont and Berkeley Fisher Center*, **450h Bootcamp in Data Analysis**.
