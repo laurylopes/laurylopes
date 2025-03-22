@@ -18,11 +18,9 @@ I had the opportunity to explore, transform, load, and analyse data to support t
 
 - Onboarding funnel: reduced by 35% the cost of verification of temp workers' documents. (tools: SQL, dbt, VScode, Looker)
 
-- Delivered an anonymised temp work activity dashboard: acquired 2 new major clients.
-
 - Performed Looker training sessions adapted to different technical levels: helped over 30 co-workers improve their skills and autonomy.
 
-- Created and migrated SQL transformations into dbt: improved maintainability, testability and costs.
+- Created and migrated SQL transformations into dbt: improved maintainability, testability, documentation and costs.
  
 **Techs:** Looker, LookML, PostgreSQL, dbt, git, Airflow, Python, Zapier
 
