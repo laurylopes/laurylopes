@@ -11,7 +11,7 @@ SQL, dbt, git, ETL, data modeling, testing and documentation
 **From Jan 2025 to present:** As an analytics engineer III, I specialise in transforming and modeling data using SQL, dbt, and extraction and load low-code tools like Fivetran and Airbyte. My role involves developing, testing, deploying and documenting modular analytical data models to ensure data flows accurately from the source to the end-users. <p>
 **Techs:** SnowSQL, dbt (core & cloud), git, Fivetran, Airbyte, Lightdash
 
-### Analytics Engineer @ Side by Randstad (temp work app)
+### Data Analyst @ Side by Randstad (temp work app)
 **From July 2023 to July 2024:** I joined the business intelligence team during scale-up as an analytics engineer. I had the opportunity to explore, transform, load, and analyse hundreds of data models to support the product, sales, marketing, finance, and operations teams. Additionally, I was responsible for managing client-embedded analytics dashboards.
 
 - Onboarding funnel: reduced by 35% the cost of verification of temp workers' documents. (tools: SQL, dbt, VScode, Looker)
