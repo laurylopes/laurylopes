@@ -4,9 +4,10 @@ As an analytics engineer with skills in SQL, dbt, Python, and data modeling, I a
 
 ### EXPERTISE
 ---
-Data visualization: Power BI, Looker <p>
 Programming: Python (pandas, numpy, matplolib), SQL <p>
-Tools: dbt, Git, Airflow <p>
+Data Tools: dbt, Git, Airflow <p>
+Data visualization: Power BI, Looker, Lightdash <p>
+
 
 ### EXPERIENCE
 ---
