@@ -3,12 +3,13 @@ laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https://www.linkedin.com/in
 As an analytics engineer with skills in SQL, dbt, Python, and data modeling, I am motivated by helping data consumers work faster and more autonomously in their analytical roles. With a background in scientific research, I switched to data during the pandemic and discovered a passion for modeling, coding, and sharing best data practices. I thrive on breaking down complex data problems into small, solvable parts.
 
 ### EXPERTISE
+---
 Data visualization: Power BI, Looker <p>
 Programming: Python (pandas, numpy, matplolib), SQL <p>
 Tools: dbt, Git, Airflow <p>
 
 ### EXPERIENCE
-
+---
 ### Analytics Engineer @ Pinnu Analytics (Data consultancy)
 **Jan 2025 – May 2025:** Specialize in data transformation and modeling using SQL and dbt. Responsible for developing, testing, deploying, and documenting modular data models. <p>
 **Techs:** Snowflake, dbt, Git, Fivetran, Airbyte, Lightdash.
@@ -38,8 +39,10 @@ Tools: dbt, Git, Airflow <p>
 **Techs:** Power BI, Jupyter Notebook, Python, Google Analytics
 
 ### EDUCATION 
+---
 - **Paris-Saclay University**, *MSc. Physical Chemistry* (2017)
 - **University of Porto**, *BSc. Chemistry* (2017)
 
 ### LANGUAGES
+---
 Portuguese (native) - French (native) - English (fluent).
