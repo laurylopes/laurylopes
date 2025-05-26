@@ -3,7 +3,9 @@ London, 07445346859, laurylopes@gmail.com - [linkedin.com/in/laury-lopes](https:
 As an analytics engineer with skills in SQL, dbt, Python, and data modeling, I am motivated by helping data consumers work faster and more autonomously in their analytical roles. With a background in scientific research, I switched to data during the pandemic and discovered a passion for modeling, coding, and sharing best data practices. I thrive on breaking down complex data problems into small, solvable parts.
 
 ## Expertise
-SQL, ETL, dbt, git, data modeling, testing and documentation
+Data visualization: Power BI, Looker <p>
+Programming: Python (pandas, numpy, matplolib), SQL <p>
+Tools: dbt, Git, Airflow <p>
 
 ## Experience
 
