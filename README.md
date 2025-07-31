@@ -1,13 +1,6 @@
 Hi, I’m Laury, an analytics engineer with experience in SQL, Python, dbt, and data analysis. 👋
 
-I wanted to be a scientist or a detective, but data was more practical and faster. ☺️
-
-Before I learned SQL and data best practices, I obtained an MSc in Physical Chemistry, worked in excellent labs in Porto and Paris as a student, and was a scientific writer for an innovation consulting firm.
-
-During the COVID pandemic, I decided to dive into data, and I’ve never been happier in my work than I am today. 🙏
-
-I gained experience as a full-stack data analyst in sports and entertainment for 1.5 years, then worked as an analytics engineer and data analyst for 1 year in an HR tech start-up.
-Nowadays I am working as an analytics engineer II, transforming and modeling data using SQL, dbt, and low-code tools like Fivetran or Airbyte.
+I gained experience as a data analyst in sports and entertainment, then worked as an analytics engineer in an HR tech start-up, moved to London worked in a very small consultancy company as analytics engineer and now I am working as analytics eng in a marketplace company. 
 
 I enjoy coding in SQL and applying best data practices to collaborate with others and empower end users.
 
